@@ -13,10 +13,7 @@ dependencies:
     sdk: flutter
 
   collection: ^1.18.0
-  flutter_blue_plus:
-    git:
-      url: https://github.com/evan361425/flutter_blue_plus
-      ref: 62b1c78351bf69abf5169f114996bd35b5029850
+  flutter_blue_plus: ^1.35.5
 
 dev_dependencies:
   flutter_test:
